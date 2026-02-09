@@ -18,11 +18,11 @@
 
 </div>
 
-#  🙋 Hello
+#  🙋 Hello 👋👋👋👋👋
 
 <table>
   
-### connect with me
+### 📞 connect with me
 <p>&emsp;&emsp;- ✉️ sssota@qq.com</p>
 
 ### 🤺 About Me
