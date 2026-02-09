@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ScarmeloDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Scarmelo)](https://git.io/streak-stats)
