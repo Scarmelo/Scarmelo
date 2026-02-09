@@ -60,5 +60,5 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Scarmelo)
 
 
-
+<span style="font-size: 20em; color: #ff4500;">😎</span>
 
