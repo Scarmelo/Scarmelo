@@ -33,8 +33,7 @@
 <p>&emsp;&emsp;想早日做出一个自己的有效的项目</p>
 <p>&emsp;&emsp;个人公众号：<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4Mjg0MDk4MA==&scene=123#wechat"> 提桶电子人 </a></p>
 <p>&emsp;&emsp;讨厌让我开源的，也讨厌自己不开源的！</p>
-<p>&emsp;&emsp;<strong>I'm a post graduate from Zhejiang Sci-Tech University, focusing on the field of object detection and neural networks. My research work is mainly centered on the optimization and improvement of deep learning-based object detection algorithms (e.g., YOLO series), the design and integration of custom neural network modules, and the practical application of related algorithms on computer vision tasks.
-Currently, I am engaged in the secondary development of detection models based on PyTorch/Ultralytics framework, and will continuously update the research code, experimental records and technical notes on GitHub.</strong></p>
+<p>&emsp;&emsp;<strong>I'm a post graduate from Zhejiang Sci-Tech University, focusing on the field of object detection and neural networks. My research work is mainly centered on the optimization and improvement of deep learning-based object detection algorithms (e.g., YOLO series), the design and integration of custom neural network modules, and the practical application of related algorithms on computer vision tasks. Currently, I am engaged in the secondary development of detection models based on PyTorch/Ultralytics framework, and will continuously update the research code, experimental records and technical notes on GitHub.</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
