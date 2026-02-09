@@ -32,7 +32,8 @@
 <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
 <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;<strong>I'm a post graduate from Zhejiang Sci-Tech University, focusing on the field of object detection and neural networks. My research work is mainly centered on the optimization and improvement of deep learning-based object detection algorithms (e.g., YOLO series), the design and integration of custom neural network modules, and the practical application of related algorithms on computer vision tasks.
+Currently, I am engaged in the secondary development of detection models based on PyTorch/Ultralytics framework, and will continuously update the research code, experimental records and technical notes on GitHub.</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
